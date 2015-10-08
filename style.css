@@ -1,0 +1,79 @@
+
+
+.octocat {
+  width:33%;
+  display:inline-block
+}
+
+.authors img {
+  width: 25px;
+  padding:0px;
+  padding-right: 0px;
+  border:none;
+  display: inline-block;
+  margin: 0;
+}
+a {text-decoration:none; color:black; font-weight:bold}
+span {color: #cccccc; font-family:Arial; font-weight:bold}
+
+ul li a img {
+  border: 1px solid #cccccc;
+  width:90%;
+  border-radius:5px;
+  margin:10px;
+  padding:10; padding-right:0
+}
+
+.image-footer {
+  display: inline-block;
+  width: 95%;
+  margin: 20;border-bottom: 1px solid #cccccc;
+}
+.image-number {bottom:25px;
+  float: left;
+}
+
+.image-caption {
+  display; inline;
+  float: right; font-family: Arial;
+}
+
+
+.image-caption span,a {position: relative; bottom: 10px; padding-right: 1px
+}
+
+ul {
+  list-style: none
+}
+
+
+.authors {
+  display: inline;
+  padding-left: 0;
+}
+
+.authors li {
+  display: inline;
+}
+
+
+.arrow-down {
+  width: 0;
+  	height: 0;
+  	border-left: 10px solid transparent;
+  	border-right: 10px solid transparent;
+
+  	border-top: 10px solid #cccccc;
+    float:right; display:block; padding-top: 0; margin-bottom: 20px; margin-top:-25px; margin-left:-20px; margin-right:20px
+
+}
+
+
+
+
+
+
+
+
+.authors a {
+  /*display: inlin*/
