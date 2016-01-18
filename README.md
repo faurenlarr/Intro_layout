@@ -1,5 +1,4 @@
-# Intro_layout
-Oct 7th assignment, recreating a css file/octidex
+
 
 # Intro to HTML/CSS Layout
 
